@@ -192,7 +192,9 @@ Jev AI System One trả về response theo cấu trúc sau:
   "model": "jev-1.13-free",
   "usage": {"input_tokens": 772, "output_tokens": 76}
 }
-Understanding noul Values
+```
+
+## Understanding noul Values
 Question	noul Value	Interpretation
 should_buy	0.21	Low probability of buy
 should_sell	0.12	Very low probability of sell
@@ -203,7 +205,7 @@ Logic: Nếu should_buy.noul > 0.5 → Tín hiệu MUA, nếu should_sell.noul >
 ⚠️ Risk Disclaimer
 ⚠️ WARNING: Hệ thống giao dịch tự động có thể dẫn đến thiệt hại tài chính đáng kể. Hãy hiểu rõ các rủi ro trước khi sử dụng.
 
-```
+
 
 
 

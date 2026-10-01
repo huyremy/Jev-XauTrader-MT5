@@ -5,7 +5,7 @@
 [![Jev AI](https://img.shields.io/badge/Jev%20AI-System%20One-orange)](https://www.beatapi.com)
 [![MT5](https://img.shields.io/badge/MT5-MetaTrader%205-blue)](https://www.metatrader5.com)
 
-> Hệ thống giao dịch tự động cho XAU/USD (Vàng) sử dụng AI Jev AI System One để phân tích kỹ thuật và ra quyết định giao dịch chính xác.
+> Hệ thống giao dịch tự động cho XAU/USD (Vàng) sử dụng Jev AI System One để phân tích kỹ thuật và ra quyết định giao dịch chính xác.
 
 ---
 

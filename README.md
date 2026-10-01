@@ -237,8 +237,7 @@ Open Pull Request
 - Requests - HTTP client
 
 📞 Support
-Website: https://www.matilda.vn
-Email: huynq@isi.com.vn
-Back to Top | Overview | Features | Installation | Configuration | Usage | Risk Disclaimer_
+Website: https://www.matilda.vn - Email: huynq@isi.com.vn
+
 
 ```

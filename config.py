@@ -14,7 +14,7 @@ JEV_API_URL = "https://api.beatapi.io/v1/systemone"  # Endpoint BeatAPI
 
 # Cấu hình giao dịch
 SYMBOL = "XAUUSD"  # Vàng/Đô la Mỹ
-TIMEFRAME = "H1"   # Khung 1 giờ
+TIMEFRAME = "D1"   # Khung 1 ngày (nên để một ngày và mỗi ngày vào 1 lệnh thôi cho chuẩn)
 NUM_BARS = 100     # Số cây nến lấy về
 
 # Ngưỡng quyết định

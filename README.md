@@ -208,31 +208,37 @@ Logic: Nếu should_buy.noul > 0.5 → Tín hiệu MUA, nếu should_sell.noul >
 
 
 
-# Key Risks
-Hệ thống không đảm bảo lợi nhuận - chỉ là công cụ hỗ trợ quyết định
-Rủi ro thị trường có thể dẫn đến thua lỗ lớn
-Lỗi kỹ thuật hoặc kết nối mạng có thể gây giao dịch bất ngờ
-Cần giám sát liên tục và sẵn sàng can thiệp thủ công
-Risk Management Best Practices
-Practice	Description
+## Key Risks
+- Hệ thống không đảm bảo lợi nhuận - chỉ là công cụ hỗ trợ quyết định
+- Rủi ro thị trường có thể dẫn đến thua lỗ lớn
+- Lỗi kỹ thuật hoặc kết nối mạng có thể gây giao dịch bất ngờ
+- Cần giám sát liên tục và sẵn sàng can thiệp thủ công
+
 🛡️ Stop Loss	Luôn đặt lệnh dừng lỗ cho mọi giao dịch
+
 📊 Position Sizing	Chỉ giao dịch 1-2% vốn cho mỗi lệnh
+
 🔄 Diversification	Không tập trung vào một cặp tiền duy nhất
+
 📈 Regular Review	Kiểm tra kết quả giao dịch hàng ngày
+
 🤝 Contributing
-Fork repository
-Create feature branch (git checkout -b feature/amazing-feature)
-Commit changes (git commit -m 'Add amazing feature')
-Push to branch (git push origin feature/amazing-feature)
+## Fork repository
+
+- Create feature branch (git checkout -b feature/amazing-feature)
+- Commit changes (git commit -m 'Add amazing feature')
+- Push to branch (git push origin feature/amazing-feature)
 Open Pull Request
 🙏 Acknowledgments
-Jev AI - AI-powered decision making
-MetaTrader 5 - Trading platform
-Pandas - Data analysis
-Requests - HTTP client
+
+- Jev AI - AI-powered decision making
+- MetaTrader 5 - Trading platform
+- Pandas - Data analysis
+- Requests - HTTP client
+
 📞 Support
 Website: https://www.matilda.vn
 Email: huynq@isi.com.vn
-Back to Top | Overview | Features | Installation | Configuration | Usage | Risk Disclaimer
+Back to Top | Overview | Features | Installation | Configuration | Usage | Risk Disclaimer_
 
 ```

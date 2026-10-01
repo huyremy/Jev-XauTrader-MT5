@@ -196,6 +196,7 @@ Jev AI System One trả về response theo cấu trúc sau:
 
 ## Understanding noul Values
 | Question |	noul | Value	Interpretation
+|----------|---------|------------------------
 | should_buy|	0.21 |	Low probability of buy
 | should_sell |	0.12 |	Very low probability of sell
 | is_strong_signal |	0.17 |	Weak signal strength

@@ -204,7 +204,11 @@ Logic: Nếu should_buy.noul > 0.5 → Tín hiệu MUA, nếu should_sell.noul >
 ⚠️ Risk Disclaimer
 ⚠️ WARNING: Hệ thống giao dịch tự động có thể dẫn đến thiệt hại tài chính đáng kể. Hãy hiểu rõ các rủi ro trước khi sử dụng.
 
-Key Risks
+```
+
+
+
+# Key Risks
 Hệ thống không đảm bảo lợi nhuận - chỉ là công cụ hỗ trợ quyết định
 Rủi ro thị trường có thể dẫn đến thua lỗ lớn
 Lỗi kỹ thuật hoặc kết nối mạng có thể gây giao dịch bất ngờ
@@ -215,9 +219,6 @@ Practice	Description
 📊 Position Sizing	Chỉ giao dịch 1-2% vốn cho mỗi lệnh
 🔄 Diversification	Không tập trung vào một cặp tiền duy nhất
 📈 Regular Review	Kiểm tra kết quả giao dịch hàng ngày
-📜 License
-MIT License - Xem file LICENSE để biết thêm chi tiết.
-
 🤝 Contributing
 Fork repository
 Create feature branch (git checkout -b feature/amazing-feature)

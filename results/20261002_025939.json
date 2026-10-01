@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-10-02T02:59:39.907367",
+  "symbol": "XAUUSD",
+  "timeframe": "H1",
+  "data_points": 100,
+  "last_candle": {
+    "time": "2026-10-01 22:00:00",
+    "open": 4176.91,
+    "high": 4179.92,
+    "low": 4173.32,
+    "close": 4176.39,
+    "tick_volume": 12995,
+    "spread": 8,
+    "real_volume": 0
+  },
+  "indicators": {
+    "rsi": 44.84929078014198,
+    "macd": 1.2041626530353824,
+    "macd_signal": 0.4144322358088961,
+    "macd_histogram": 0.7897304172264863
+  },
+  "signal": {
+    "buy": false,
+    "sell": false,
+    "hold": true,
+    "strong_signal": false,
+    "trending": false,
+    "confidence": 0.07999999999999999,
+    "confidence_buy": 0.21,
+    "confidence_sell": 0.13,
+    "reasoning": "Buy: 0.21, Sell: 0.13",
+    "rsi": 44.84929078014198,
+    "macd": 1.2041626530353824,
+    "macd_signal": 0.4144322358088961,
+    "macd_histogram": 0.7897304172264863
+  }
+}

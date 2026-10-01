@@ -28,7 +28,6 @@ AUTO TRADE XAU/USD là hệ thống giao dịch tự động kết hợp phân t
 | 🤖 **Jev AI Integration** | Tích hợp trực tiếp với Jev AI System One - mô hình AI chuyên dụng cho phân tích tài chính |
 | 📈 **Technical Indicators** | Tính toán đầy đủ các chỉ số: RSI, MACD, MACD Signal, MACD Histogram, EMA |
 | ⚡ **High Performance** | Xử lý dữ liệu thị trường theo thời gian thực với tốc độ cao |
-| 🛡️ **Risk Management** | Hệ thống quản lý rủi ro thông minh với ngưỡng confidence, dừng lỗ và chốt lời |
 | 📊 **Logging & Analytics** | Lưu trữ đầy đủ lịch sử giao dịch, kết quả phân tích vào file JSON có cấu trúc |
 | 🔧 **Easy Configuration** | Cấu hình đơn giản qua file config.py - thay đổi symbol, timeframe, ngưỡng rủi ro chỉ với vài dòng code |
 

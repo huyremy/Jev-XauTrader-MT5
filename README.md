@@ -48,7 +48,7 @@ AUTO TRADE XAU/USD là hệ thống giao dịch tự động kết hợp phân t
 ```bash
 # 1. Clone repository
 git clone https://github.com/huyremy/Jev-XauTrader-MT5.git
-cd autotrader-xau
+cd Jev-XauTrader-MT5
 
 # 2. Install dependencies
 pip install -r requirements.txt

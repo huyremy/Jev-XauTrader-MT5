@@ -201,6 +201,7 @@ should_sell	0.12	Very low probability of sell
 is_strong_signal	0.17	Weak signal strength
 is_trending	0.49	Near neutral trend
 Logic: Nếu should_buy.noul > 0.5 → Tín hiệu MUA, nếu should_sell.noul > 0.5 → Tín hiệu BÁN, nếu cả hai đều thấp → HOLD.
+
 ---
 
 ⚠️ ## Risk Disclaimer
